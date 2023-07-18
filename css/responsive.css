@@ -1,0 +1,710 @@
+
+@media (min-width :1200px){
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+}
+
+@media (min-width:992px) and (max-width:1199px){
+/*=========================
+    team_Part start
+=========================== */
+.team_slider {
+	margin-top: -30px;
+}
+.team_social ul {
+	transform: translateX(0);
+	-webkit-transform: translateX(0);
+	-moz-transform: translateX(-22px);
+	-ms-transform: translateX(0);
+	-o-transform: translateX(0);
+}
+/*=========================
+    team_Part end
+=========================== */
+
+/*=========================
+    clients_Part start
+=========================== */
+.clienys_review_image img {
+	transform: translateX(88%);
+	-webkit-transform: translateX(88%);
+	-moz-transform: translateX(55%);
+	-ms-transform: translateX(88%);
+	-o-transform: translateX(88%);
+}
+/*=========================
+    clients_Part end
+=========================== */
+
+/*=========================
+    service_Part start
+=========================== */
+.service_details p {
+	margin: 0px;
+	padding: 0px;
+	line-height: 25px;
+	color: #777;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+}
+/*=========================
+    service_Part end
+=========================== */
+
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+}
+@media (min-width:768px) and (max-width:991px){
+/*=========================
+    banner_Part start
+=========================== */
+.banner_text h3 {
+	font-size: 25px;
+}
+.banner_text h1 {
+	font-size: 30px;
+}
+.banner_text .ah-headline{
+	font-size:18px;
+}
+.banner_text {
+	margin-top: 30px;
+}
+/*=========================
+	about_Part start
+=========================== */
+.education_clip {
+	width: 345px;
+	position: relative;
+}
+.clienys_review_image img {
+	border: 2px solid red;
+}
+.education_clip .education_heading h6 {
+	margin-left: -12px;
+	padding-left: 10px;
+}
+.education_clip .education_icon i {
+	font-size: 40px;
+	margin-left: 85%;
+	margin-bottom: 45px;
+}
+.education_clip .education_icon2 i {
+	font-size: 40px;
+	margin-left: 65%;
+	margin-top: -20px;
+}
+.education_heading2 {
+	margin-top: -15%;
+}
+.about_img_details {
+	margin-left: 25px;
+	margin-top: 45px;
+}
+/*=========================
+    about_Part end
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+/*=========================
+    team_Part start
+=========================== */
+.team_social {
+	margin-left: -60px;
+}
+/*=========================
+    team_Part end
+=========================== */ 
+
+/*=========================
+    clients_review start
+=========================== */
+.team_member_image img {
+	width: 125px !important;
+	height: 150px;
+}
+.clients_review_content {
+	margin: 65px 5px 5px 5px;
+}
+.team_text h4 {
+	font-size: 20px;
+	margin-top: -10px;
+
+}
+.team_text p {
+	font-size: 15px;
+}
+.prv_arr {
+	top: 60%;
+}
+.nxt_arr {
+	top: 60%;
+}
+.clients_review_rate {
+	font-size: 12px;
+}
+.team_social ul {
+	margin-left: 30px;
+}
+.team_social ul li {
+	margin-left: 10px;
+}
+.team_social ul li .one i {
+	padding: 3px 5px;
+}
+.team_social ul li .two i {
+	padding: 3px;
+}
+.team_social ul li .three i {
+	padding: 3px;
+}
+.team_social ul li .four i {
+	padding: 3px;
+}
+.clienys_review_text p {
+	font-size: 14px;
+	line-height: 20px;
+}
+/*=========================
+    clients_review end
+=========================== */
+
+/*=========================
+    contact_Part start
+=========================== */
+.con_sub_btn {
+	margin-top: -5px;
+}
+/*=========================
+    contact_Part end
+=========================== */
+
+/*=========================
+    footer_Part start
+=========================== */
+.footer_image img{
+	width:200px;
+}
+.facebook_page_image img {
+	height: 150px;
+}
+/*=========================
+    footer_Part end
+=========================== */
+
+}
+@media (min-width:576px) and (max-width:767px){
+/*=========================
+    banner_Part start
+=========================== */
+.banner_text {
+	margin-top: 30px;
+}
+.banner_btn a {
+	padding: 4px 10px;
+}
+.banner_text h3 {
+	font-size: 22px;
+}
+.banner_text h1 {
+	font-size: 26px;
+}
+.banner_text p {
+	font-size: 15px;
+}
+.banner_text .ah-headline {
+	overflow: hidden;
+	vertical-align: top;
+	font-size: 18px;
+}
+.banner_text .banner_btn {
+	margin-top: 15px;
+}
+.banner_text .banner_btn a {
+	display: ruby-text;
+}
+.banner_show_image {
+	width: 210px;
+	margin-top: 35px;
+	margin-left: 20px;
+}
+.banner_image_border1 {
+	width: 223px;
+	height: 297px;
+}
+.banner_image_border2 {
+	width: 222px;
+	height: 296px;
+}
+/*=========================
+    banner_Part end
+=========================== */
+
+/*=========================
+    about_Part start
+=========================== */
+.about_all_btn li button{
+	padding: 4px 8px;
+}
+.about_img_details img {
+	margin-top: 40px;
+	margin-left: 5px;
+}
+.clienys_review_image img {
+	border: 2px solid red;
+}
+.about_text .description {
+	font-size: 13px;
+	line-height: 22px;
+}
+.education_clip .education_heading h6 {
+	margin-left: -12px;
+	padding-left: 10px;
+}
+.education_icon2 {
+	margin-right: 55%;
+	margin-top: -15px;
+}
+.education_heading2 {
+	margin-top: -50px;
+}
+.education_clip .education_icon i {
+	margin-left: 85%;
+}
+.education_clip {
+	width: 520px;
+	margin-left: 5px;
+}
+/*=========================
+    about_Part end
+=========================== */
+
+/*=========================
+    service_Part start
+=========================== */
+.icon_one {
+	font-size: 30px;
+}
+.icon_two {
+	font-size: 35px;
+	padding-top: 10px;
+}
+.service_details h4 {
+	font-size: 18px;
+	margin-top: -5px;
+}
+.service_details p {
+	font-size: 15px;
+	line-height: 22px;
+	margin-top: 3px;
+}
+/*=========================
+    service_Part end
+=========================== */
+
+/*=========================
+    work_review start
+=========================== */
+.work_review_item {
+	margin-bottom: 25px;
+}
+/*=========================
+    work_review end
+=========================== */
+
+/*=========================
+    clients_review start
+=========================== */
+/* .clienys_review_image img {
+	transform: translateX(30%);
+	-webkit-transform: translateX(30%);
+	-moz-transform: translateX(30%);
+	-ms-transform: translateX(30%);
+	-o-transform: translateX(30%);
+} */
+.clienys_review_image h5 {
+	margin-top: 15px;
+}
+.clienys_review_text p {
+	font-size: 14px;
+	line-height: 20px;
+}
+/*=========================
+    clients_review end
+=========================== */
+
+/*=========================
+    portfolio_Part start
+=========================== */
+.common_btn {
+	padding: 0px 5px;
+	font-size: 14px;
+}
+/*=========================
+    portfolio_Part end
+=========================== */
+
+/*=========================
+    contact_Part start
+=========================== */
+.contact_text a {
+	font-size: 14px;
+}
+.contact_text p {
+	margin-bottom: -12px;
+}
+.con_sub_btn{
+	margin-top: 0px;
+}
+/*=========================
+    contact_Part end
+=========================== */
+/*=========================
+     header_Part start
+=========================== */
+
+/*=========================
+     header_Part end
+=========================== */
+
+}
+
+@media (max-width :575.99px){
+
+.all_heading_title h4 {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+/*=========================
+     header_Part start
+=========================== */
+.main_menu .side_menu {
+	width: 200px;
+}
+.main_menu .side_menu_icon li {
+	margin-right: 8px;
+}
+.main_menu .side_menu_icon {
+	margin-left: -15px;
+}
+.main_menu .navbar-brand img{
+	width: 120px;
+	height: 35px
+}
+/*=========================
+     header_Part end
+=========================== */
+
+/*=========================
+    banner_Part start
+=========================== */
+#banner_part{
+    padding-top:80px;
+}
+.banner_show_image {
+	width: 190px;
+	margin: 0 auto;
+}
+.banner_image_border1 {
+	width: 203px;
+	height: 270px;
+}
+.banner_image_border2 {
+	width: 203px;
+	height: 270px;
+}
+.banner_text {
+	text-align: center;
+	margin-top: 30px;
+}
+.banner_text h3 {
+	font-size: 18px;
+}
+.banner_text h1 {
+	font-size: 22px;
+}
+.banner_text h4 {
+	font-size: 15px;
+}
+.banner_text p{
+	font-size: 14px;
+}
+.banner_btn {
+	margin-left: 10px;
+}
+.banner_btn a {
+    padding: 5px 8px;
+	font-size: 14px;
+}
+/*=========================
+    banner_Part end
+=========================== */
+
+/*=========================
+     about_Part start
+=========================== */
+.about_all_btn .nav-link {
+	padding: 4px 5px;
+	font-size: 12px;
+}
+.about_part_image img {
+	width: 60%;
+	height: 290px;
+	padding: 4px;
+}
+.about_part_image{
+    transform: translateX(23%);
+    -webkit-transform: translateX(23%);
+    -moz-transform: translateX(23%);
+    -ms-transform: translateX(23%);
+    -o-transform: translateX(23%);
+}
+.about_main_banner_text{
+    text-align: center;
+}
+.about_image_border {
+	display: none;
+}
+.about_main_banner_text h3 {
+	font-size: 20px;
+	line-height: 40px;
+}
+.about_main_banner_text p {
+	line-height: 28px;
+	font-size: 15px;
+}
+.about_img_details {
+	margin-left: 0;
+	margin-right: 0;
+}
+.about_text h5{
+	text-align: left;
+	font-size: 20px;
+}
+.about_text .btn {
+	text-align: left;
+	padding: 0;
+	margin-top: 15px;
+	padding: 3px 8px;
+}
+.education_clip .education_icon i {
+	margin-top: 10px;
+	font-size: 30px;
+	margin-left: 85%;
+}
+.education_clip .education_heading h6 {
+	font-size: 16px;
+	margin-left: -12px;
+     padding-left: 10px;
+}
+.education_clip {
+	width: 100%;
+	height: 160px;
+	margin-left: 0px;
+}
+.education_heading {
+	margin-left: 0px;
+}
+.education_heading2 h6 {
+	font-size: 16px;
+	margin-top: -45px;
+}
+.education_heading2 p {
+	font-size: 14px;
+}
+.education_icon2 i {
+	font-size: 30px;
+	margin-left: 65%;
+}
+/*=========================
+     about_Part end
+=========================== */
+
+/*=========================
+     service_Part start
+=========================== */
+.icon_two {
+	font-size: 36px;
+}
+.service_details h4 {
+	font-size: 18px;
+	margin-top: 10px;
+}
+p {
+	line-height: 20px;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.icon_one {
+	font-size: 30px;
+	margin-top: 0;
+}
+.team_details {
+	margin-top: 0px;
+}
+.team_social {
+	margin-left: 0px;
+}
+/*=========================
+     service_Part end
+=========================== */
+
+/*=========================
+     work_review start
+=========================== */
+.work_review_item h4 {
+	font-size: 18px;
+}
+.work_review_item .review_item i {
+	font-size: 18px;
+}
+.work_review_item p {
+	font-size: 20px;
+}
+.work_review_item {
+	margin-bottom: 30px;
+}
+.work_review_item:nth-child(3),
+.work_review_item:nth-child(4){
+     margin-bottom: 0px;
+}
+/*=========================
+     work_review end
+=========================== */
+
+/*=========================
+     clients_review start
+=========================== */
+.clienys_review_text p {
+	font-size: 14px;
+}
+.clients_review_content {
+	margin: 50px 20px 5px 25px;
+}
+.clienys_review_image p {
+	line-height: 20px;
+	font-size: 15px;
+}
+.clienys_review_image h5 {
+	margin-top: 15px;
+}
+.clients_review_rate i{
+     font-size: 14px;
+}
+/*=========================
+     clients_review end
+=========================== */
+
+/*=========================
+     portfolio_Part start
+=========================== */
+#my_portfolio .common_btn{
+	padding: 5px 8px;
+	margin: 0;
+	margin-bottom: 5px;
+	font-size: 13px;
+}
+/*=========================
+     portfolio_Part end
+=========================== */
+
+/*=========================
+     contact_Part start
+=========================== */
+.contact_fax_top {
+	--bs-gutter-x: 1.5rem;
+	--bs-gutter-y: 0;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: calc(var(--bs-gutter-y) * -1);
+	margin-right: calc(var(--bs-gutter-x)/ -2);
+	margin-left: calc(var(--bs-gutter-x)/ -2);
+	width: 100%;
+	margin: 0 auto;
+}
+.input_lg {
+	margin-bottom: 20px;
+	width: 100%;
+}
+.input_lg_2 {
+	height: 90px;
+	display: flex;
+	box-shadow: 2px 4px 6px 8px rgba(240, 248, 255, 0.925);
+}
+.my_area {
+	margin-left: 0px;
+}
+/*=========================
+     contact_Part end
+=========================== */
+
+/*=========================
+     footre_Part start
+=========================== */
+.footer_text p{
+	margin-bottom: 15px;
+}
+.copyright p {
+	font-size: 14px;
+}
+/*=========================
+     footre_Part end
+=========================== */
+
+/*=========================
+     scroll_bttn end
+=========================== */
+.scroll-to-top {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+/*=========================
+     scroll_bttn end
+=========================== */
+
+
+
+
+
+}
